@@ -11,7 +11,6 @@ const TRACK_LIST_CONTAINER_SELECTOR = `div[data-type="media-table"]`;
 const SELECTED_TRACK_ROW_SELECTOR = `[class*="_tableRowSelected_"]`; 
 const TRACK_ID_ATTRIBUTE = "data-track-id";
 const TRACK_INDEX_ATTRIBUTE = "data-index";
-// --------------------------------------------
 
 const handleKeyDown = (event: KeyboardEvent) => {
     const target = event.target as HTMLElement;
