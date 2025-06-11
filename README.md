@@ -1,6 +1,8 @@
 # TidaLuna Plugins
+## Plugin list:
 
-* **Deleter**: Select any track or multiple tracks in a playlist, press the **`Delete`** key, and watch them disappear. No more hunting for the context menu!
+### **Deleter** 
+Select any track or multiple tracks in a playlist, press the **`Delete`** key, and watch them disappear. No more hunting for the context menu!
 
 ### How to Use
 
