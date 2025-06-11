@@ -1,0 +1,11 @@
+{
+	"name": "Deleter",
+	"description": "Deletes selected track(s) using delete key",
+	"author": {
+		"name": "MathDesigns",
+		"url": "https://github.com/MathDesigns",
+		"avatarUrl": "https://avatars.githubusercontent.com/u/57678084"
+	},
+	"main": "./src/index.ts",
+	"type": "module"
+}
