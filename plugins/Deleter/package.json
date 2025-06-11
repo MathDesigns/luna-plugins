@@ -1,6 +1,7 @@
 {
 	"name": "Deleter",
 	"description": "Deletes selected track(s) using delete key",
+	"version": "1.0.0",
 	"author": {
 		"name": "MathDesigns",
 		"url": "https://github.com/MathDesigns",
